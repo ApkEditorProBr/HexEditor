@@ -5,6 +5,9 @@ body {
 }
 .text0 {
   font-size: 20px;
+  float: left;
+  margin-left: -5px;
+  margin: -2px;
 }
 
 u {
@@ -56,4 +59,5 @@ color: green;
   }
 
 }
+
 
