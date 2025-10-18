@@ -1,2 +1,2 @@
 # HexEditor
-tutorial
+Autor: Página tutorial HexEditor
