@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;  
+  background-color: white;
+  font-family:Cambria;
+  font-size: 30pt;
+  font-weight:bold;
+  font-style:normal;
+}
+span {
+color: green;
+text-decoration-line: overline underline;
+}
+h1 {
+  font-size: 25pt;
+  font-weight:bold;
+  font-style:normal;
+}
+iframe {
+  background-color: black;
+  border-radius: none;
+  width: 73%;
+  height: 30%;
+  color: white;
+  }
+}
