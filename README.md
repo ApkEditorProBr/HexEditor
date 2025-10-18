@@ -1,2 +1,3 @@
 # HexEditor
-Autor: Página tutorial HexEditor
+Autor: BruMarti 
+Página tutorial HexEditor
